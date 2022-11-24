@@ -3,7 +3,10 @@ Projet OpenStreetMap
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-![Carte du Jardin du Luxembourg](images/Luxembourg.jpg)
+<p align="center">
+  <img src="images/Luxembourg.jpg">
+</p>
+
 
 📍 Coordonnées GPS
 --------------------------------------------------------------------------------
